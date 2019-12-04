@@ -1,0 +1,13 @@
+100 Positives = 40%, detection = 100%Pre-events = 0
+105 Positives = 50%, detection = 100%Pre-events = 0
+110 Positives = 50%, detection = 100%Pre-events = 0
+115 Positives = 44%, detection = 100%Pre-events = 0
+120 Positives = 46%, detection = 100%Pre-events = 0
+125 Positives = 40%, detection = 100%Pre-events = 0
+130 Positives = 58%, detection = 100%Pre-events = 0
+135 Positives = 52%, detection = 52%Pre-events = 50
+140 Positives = 38%, detection = 90%Pre-events = 10
+145 Positives = 40%, detection = 90%Pre-events = 14
+150 Positives = 48%, detection = 100%Pre-events = 1
+155 Positives = 42%, detection = 100%Pre-events = 0
+160 Positives = 48%, detection = 100%Pre-events = 0
